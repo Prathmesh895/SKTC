@@ -1,0 +1,25 @@
+
+
+
+img{
+    position:fixed;
+    top: 20px;
+    left: 10px;
+    margin:0px;
+    width: 140px;
+    height: 160px;
+}
+
+.a{
+    border: .5cm solid black;
+    margin-left: 4cm;
+    padding: 1cm;
+    background-color: antiquewhite;
+}
+.bgimage{
+    background-image: url(74.png);
+    background-repeat: no-repeat;
+    background-position:fill;
+    background-position:;
+    
+}
