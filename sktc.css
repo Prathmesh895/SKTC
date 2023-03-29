@@ -19,6 +19,15 @@ img{
    color:black;
    
 }
+.b{ margin-left: 4cm;
+    position:fixed;
+    top: 130px;
+    left:70px;
+   font-size: 35px;
+   color:black;
+   
+
+}
 .bgimage{
     background-image: url(irewolede-PvwdlXqo85k-unsplash.jpg);
     background-repeat: no-repeat;
