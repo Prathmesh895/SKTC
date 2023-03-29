@@ -8,18 +8,21 @@ img{
     margin:0px;
     width: 140px;
     height: 160px;
+    border-radius: 3cm;
 }
 
 .a{
-    border: .5cm solid black;
+   
     margin-left: 4cm;
     padding: 1cm;
-    background-color: antiquewhite;
+   font-size: 55px;
+   color:black;
+   
 }
 .bgimage{
-    background-image: url(74.png);
+    background-image: url(irewolede-PvwdlXqo85k-unsplash.jpg);
     background-repeat: no-repeat;
     background-position:fill;
-    background-position:;
+    background-position:0;
     
 }
