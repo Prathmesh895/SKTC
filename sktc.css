@@ -2,28 +2,22 @@
 
 
 img{
-    position:fixed;
-    top: 59px;
-    left: 10px;
-    margin: 1px;
-    width: 140px;
-    height: 160px;
-    border-radius: 3cm;
+   float: left;
+   width: 90px;
+   height: 100px;
+   margin-left: 2cm;
+   margin-top: .9cm;
+   border-radius: 1cm;
 }
 
 .a{
-   
-    margin-left: 4cm;
     padding: 1cm;
-   font-size: 55px;
-   color:black;
+
+    color:black;
    
 }
-.b{ margin-left: 4cm;
-    position:fixed;
-    top: 130px;
-    left:70px;
-   font-size: 35px;
+.b{ 
+   
    color:black;
    
 
