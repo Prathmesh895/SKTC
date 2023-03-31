@@ -5,23 +5,16 @@ img{
    float: left;
    width: 90px;
    height: 100px;
-   margin-left: 2cm;
    margin-top: .9cm;
    border-radius: 1cm;
 }
 
 .a{
     padding: 1cm;
-
     color:black;
    
 }
-.b{ 
    
-   color:black;
-   
-
-}
 .bgimage{
     background-image: url(irewolede-PvwdlXqo85k-unsplash.jpg);
     background-repeat: no-repeat;
